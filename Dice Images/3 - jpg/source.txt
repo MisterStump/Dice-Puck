@@ -1,0 +1,4 @@
+Converted from png into specifically formatted jpeg using ImageMagick command line
+
+Command line:
+magick D20.png -type TrueColor d20.jpg

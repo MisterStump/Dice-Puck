@@ -1,0 +1,1 @@
+Converted from svg into png using Inkscape. I needed to resize the canvas to my final image size, resizing during export didn't seem to do it
