@@ -52,7 +52,7 @@ I set up this project to code using Thonny/MicroPython. I think the Arduino appr
 The walkthrough provides the tools needed to flash board, connect to it with Thonny, etc. Once you do all that, you would use Thonny to upload all of the files/subfolders in the "Program" folder onto the device. Then you would either run "DicePuck.py" from the device, or you would unplug/replug the device.
 
 ## Modeling a case
-I have done quite a bit with OpenSCAD, so this came together rather well. It is just a hollow shell with a cutout for the screen. Then a plastic "shelf" in the middle that keeps the battery off of the circuit board. If you get a thicker/thinner battery, you'd need to modify the .scad file using the OpenSCAD program's Customizer (or use Thingiverse Customizer (here)[https://www.thingiverse.com/thing:6726376]). No code changes required.
+I have done quite a bit with OpenSCAD, so this came together rather well. It is just a hollow shell with a cutout for the screen. Then a plastic "shelf" in the middle that keeps the battery off of the circuit board. If you get a thicker/thinner battery, you'd need to modify the .scad file using the OpenSCAD program's Customizer (or use Thingiverse Customizer [here](https://www.thingiverse.com/thing:6726376) ). No code changes required.
 
 Note: The little cutout notch in the "shelf" goes on the opposite side from the battery connector.
 
