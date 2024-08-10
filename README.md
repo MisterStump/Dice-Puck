@@ -1,4 +1,4 @@
-[Imgur](https://imgur.com/mSfZSoT)
+![Imgur](https://imgur.com/mSfZSoT)
 
 # Overview
 The goal of this project was to make a little pocket digital dice roller that worked with the standard 7 polyhedral dice used in games like D&D. This GitHub contains the things I purchased, build, or coded. I hope that if anyone else is interested in a project like this, they can use this as a rough guide. Or maybe just provide some insight to anyone interested into some of the challenges I ran into.
