@@ -2,7 +2,7 @@
 ![4](https://github.com/user-attachments/assets/768a00d0-34cc-4d1b-8024-3cbc48cc9e8e)
 
 # Overview
-The goal of this project was to make a little pocket digital dice roller that worked with the standard 7 polyhedral dice used in games like D&D. This GitHub contains the things I purchased, build, or coded. I hope that if anyone else is interested in a project like this, they can use this as a rough guide. Or maybe just provide some insight to anyone interested into some of the challenges I ran into.
+The goal of this project was to make a little pocket digital dice roller that worked with the standard 7 polyhedral dice used in games like D&D. This GitHub contains the things I purchased, built, or coded. I hope that if anyone else is interested in a project like this, they can use this as a rough guide. Or maybe just provide some insight to anyone interested into some of the challenges I ran into.
 
 ## Features
 - Select a d4, d6, d8, d10, d12, d20, or d100, as well as how many of them to roll
